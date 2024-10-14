@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Personal Introduction</title>
+      <style>
+        <body>
+            <h1>My name is Sarinda Leininger</h1>
+            body{
+            background-color:watercolor;
+        }
+            <h1>
+                h1{
+                    color-scheme: watercolor;
+                }
+                <p>
+                    p{
+                        color: watercolor;
+                    }
+                    <p>I am a Web Design Student</p>
+                    <p> I work for a self storage facility</p>
+                    <p> I want to be able to fix their website</p>
+                    <p> I enjoy crocheting, knitting, macrame,and sewing
+                        
+      </style>  
+    </head>
+</body>
+</html>

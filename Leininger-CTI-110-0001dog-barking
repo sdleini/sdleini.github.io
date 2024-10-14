@@ -1,0 +1,11 @@
+def hello():
+    print("Hello Nick")
+   
+
+    hello()
+    hello()
+    hello()
+
+def dog_info(age,name):
+    print(f"Hi my name is "name" and I am "age" years old")
+# this is a comment to test comments in pyton
